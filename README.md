@@ -1,1 +1,4 @@
-# Notes'我学习的一些记录' 
+# Sharing my learning experience
+
+![绉戞瘮](https://github.com/Kyrie11/Notes/blob/master/%E7%A7%91%E6%AF%943.jpg)
+
